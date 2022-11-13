@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "385738390932",
+    "project_id": "flutter-authentication-7e004",
+    "storage_bucket": "flutter-authentication-7e004.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385738390932:android:72b75e79ab094f2696e381",
+        "android_client_info": {
+          "package_name": "com.example.ocean_conservation_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385738390932-3ebf85bbdoj5f24912pssvgrgbrh5s5o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVfIIpkUcqSU_1CIGfWXjsav8bfnslclU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385738390932-3ebf85bbdoj5f24912pssvgrgbrh5s5o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
